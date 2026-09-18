@@ -1,0 +1,15 @@
+# local environment
+.venv/
+__pycache__/
+*.pyc
+
+# runtime output
+screenpeek.log
+*.tmp
+
+# macOS
+.DS_Store
+
+# editors
+.idea/
+.vscode/
